@@ -99,5 +99,6 @@ export default function Home() {
         </a>
       </footer>
     </div>
+  <img src=/logo.png alt=Waymark width=200 height=200 />
   );
 }
